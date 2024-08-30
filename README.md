@@ -5,6 +5,7 @@
 - Once Started, it runs timer in the order of Work and Shortbreaks, after 4 complete reps it the timer sets to the long break
 - Has a little Checkmark which shows how many reps you have completeted
 
+![Timer](https://github.com/ujjwal-py/pomodoro-timer-py/blob/master/timer.png "timer")
 
 Made this while I was watching Tkinter tutorial from the 100 days Python coursae by Dr. Angela Yu.
 
